@@ -5,7 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  var yourAnimal = cat
+  var yourAnimal = 'cat'
 
   return function innerAnimal() {
     return yourAnimal
