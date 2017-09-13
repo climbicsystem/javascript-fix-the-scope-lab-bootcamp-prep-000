@@ -7,7 +7,7 @@ function myAnimal() {
 function yourAnimal() {
   var yourAnimal = 'cat'
 
-  console.log(`${yourAnimal}`)
+  return console.log(`${yourAnimal}`)
 
   // How can we make sure that this function
   // and the above function both pass?
